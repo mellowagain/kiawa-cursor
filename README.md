@@ -1,3 +1,8 @@
+# Note
+
+> The artist posted the `.ani` files for the cursor: https://twitter.com/growowling/status/1510623136558985221?s=20&t=cvJMZ555eGVHYFHTkdgLOw  
+> Consider using them instead of this as it is sharper. The repository only stays up for archival reasons.
+
 # Kiawa Cursor
 
 Kiara Takanashi Windows Cursor
